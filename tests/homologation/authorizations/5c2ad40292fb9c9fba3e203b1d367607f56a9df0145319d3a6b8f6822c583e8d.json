@@ -1,0 +1,12 @@
+{
+  "payload": {
+    "version": 2,
+    "installation_id": "5c2ad40292fb9c9fba3e203b1d367607f56a9df0145319d3a6b8f6822c583e8d",
+    "revision": 1,
+    "ephemeral_key": "39gmV6jZidbMHu9JaWfLEKyZ6c90TKnAmThUnxGwh2c=",
+    "nonce": "j1yO_kKCPrpSr6Mw",
+    "ciphertext": "JOACwZPVascC5CA8Olxyk0Q58YH58YgVaZb1uUyWbm3H_BTFWPpB3boONK-_seebzvRFU-VqXzycdNgGY0LbXOwnaUAqxh2jnRmlxw0LeFi9ZNXSBG2zN9Eexuvr7uL9N6q4vfvIBvY1FWLxqTn6raw="
+  },
+  "signature": "6gyLM3GGF5GOphfYOw6tf0H19lYi-X4XSepo0ZiHJ_yE57vyewro93uDht0Pcms5e5_jD-HFFtQZO3tEJt0NAg=="
+}
+
